@@ -17,7 +17,7 @@ class MyInfo extends StatelessWidget {
             const Spacer(flex: 2),
             const CircleAvatar(
               radius: 50.0,
-              backgroundImage: AssetImage("images/me.jpg"),
+              backgroundImage: AssetImage("assets/images/me.jpg"),
             ),
             const Spacer(),
             Text(
