@@ -1,5 +1,5 @@
 import 'package:ahmedfathy_portfolio/constants.dart';
-import 'package:ahmedfathy_portfolio/screens/components/side_menu.dart';
+import 'package:ahmedfathy_portfolio/screens/side_menu/components/side_menu.dart';
 import 'package:flutter/material.dart';
 
 class MainScreen extends StatelessWidget {
@@ -12,6 +12,7 @@ class MainScreen extends StatelessWidget {
         child: Container(
           constraints: const BoxConstraints(maxWidth: maxWidth),
           child: Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Expanded(
                 flex: 2,

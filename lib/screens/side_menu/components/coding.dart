@@ -1,5 +1,5 @@
 import 'package:ahmedfathy_portfolio/constants.dart';
-import 'package:ahmedfathy_portfolio/screens/components/animated_linear.dart';
+import 'package:ahmedfathy_portfolio/screens/side_menu/components/animated_linear.dart';
 import 'package:flutter/material.dart';
 
 class Coding extends StatelessWidget {
