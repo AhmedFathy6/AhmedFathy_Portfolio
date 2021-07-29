@@ -1,6 +1,6 @@
-# ahmedfathy_portfolio
+# Ahmed Fathy Portfolio
 
-A new Flutter project.
+It is my portfolio as a website using flutter and dart, responsive on all
 
 ## Getting Started
 
